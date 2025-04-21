@@ -71,7 +71,7 @@
         <h1>Text Summarization Tool</h1>
         <form id="summarization-form" method="POST" action="/">
             <label for="text-input" class="sr-only">Enter text to summarize</label>
-            <textarea id="text-input" name="text" rows="10" placeholder="Paste your text here..." required></textarea>
+            <textarea id="text-input" name="text" rows="10" placeholder="Paste your text here..." required>{{ request.form.text if request.form.text else '' }}</textarea>
             <button type="submit">Summarize</button>
         </form>
         <div id="summary-output">
