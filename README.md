@@ -49,3 +49,5 @@ Business and Legal: Companies can analyze long legal documents, contracts, or me
 Medical care: Physicians and other medical experts can use summarization tools to extract key information from lengthy patient histories or research papers.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/3f11a68c-1f85-4386-a8b3-7f1cd11660b7)
