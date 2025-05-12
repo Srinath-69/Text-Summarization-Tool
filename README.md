@@ -12,6 +12,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*:
+
 The Text Summarization Tool is a state-of-the-art computer program that employs Natural Language Processing (NLP) and Machine Learning (ML) algorithms to produce summaries automatically in a short and informative way from large text sources. This tool is particularly designed to assist users in finding key information from texts, articles, reports, or any other unstructured text format without the need for extensive reading of the entire content. With the vast explosion of digital content at a faster rate, it has been becoming ever more challenging for individuals to keep up with handling voluminous amounts of information effectively. This tool offers an appropriate solution by condensing voluminous texts into their most essential points, thus facilitating faster understanding and improved decision-making.
 
 Text summarization can broadly be divided into two types, i.e., extractive and abstractive summarization. Extractive summarization is done by searching and copying important sentences, phrases, or sections from the source text without modifying it. Abstractive summarization is done by utilizing deep learning models to scan the context of the source text and generate new sentences that represent the key ideas, imitating the way a human being would write a summary.
