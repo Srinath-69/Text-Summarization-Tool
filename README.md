@@ -1,9 +1,14 @@
 # Text-Summarization-Tool
 *COMPANY*:CODETECH IT SOLUTIONS
+
 *NAME*:GANGALAM SRINATH
+
 *INTERN ID*:C0DF194
+
 *DOMAIN*: Artificial Intelligence Markup Language
+
 *DURATION*: 4 Weeks
+
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*:
